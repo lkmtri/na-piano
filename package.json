@@ -1,0 +1,21 @@
+{
+  "name": "piano",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tri Le",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^4.2.0",
+    "babel-plugin-styled-components": "^1.10.7",
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
